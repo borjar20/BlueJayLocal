@@ -1,0 +1,26 @@
+{
+    "development": [
+      {
+        "classId": "class01",
+        "hidden": false,
+        "identities": [],
+        "credentials": [],
+        "projects": [
+          {
+            "name": "Bluejay Test Pingu-Developers",
+            "owner": "Pingu-Developers", 
+            "projectId": "Test",
+            "identities": [
+              {
+                "source": "github",
+                "repository": "Acme-One",
+                "repoOwner": "Pingu-Developers/dp-ii"
+              }
+            ],
+            "credentials": [],
+            "members": []
+          }
+        ]
+      }
+    ]
+  }
