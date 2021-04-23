@@ -1,3 +1,3 @@
 # Governify Project Bluejay Infrastructure
-Infrastructure for deploying the ecosystem as described in the BLUEJAY project.
+Despliegue local de la herramienta Bluejay
 
